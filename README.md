@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a front-end developer with over 10 years of experience.
+I'm a Frontend developer with over 10 years of experience.
 
 My contacts and links to profiles here: [webbrother.net](https://webbrother.net/)
 
