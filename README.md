@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm a front-end developer with over 10 years of experience.
 
-My contacts and links to profiles here: [http://webbrother.net/](https://webbrother.net/)
+My contacts and links to profiles here: [webbrother.net](https://webbrother.net/)
