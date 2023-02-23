@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🔭 My contacts and links to profiles here: [webbrother.net](https://webbrother.net/)
 
-## My current tech stack
+### My current tech stack
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
