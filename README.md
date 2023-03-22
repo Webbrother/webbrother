@@ -16,9 +16,8 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Webbrother&show_icons=true&theme=tokyonight" alt="Webbrother stats" /></p>
+![Webbrother's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webbrother&count_private=true&show_icons=true&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Webbrother&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Webbrother stats" /></p>
-
+![languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=Webbrother&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=webbrother&label=Profile%20Views&color=6&icon=8&pretty=false)](https://visitcount.itsvg.in)
