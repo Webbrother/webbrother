@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😎 I'm a Frontend developer with over 10 years of experience.
+😎 I'm a Frontend developer with over 12 years of experience.
 
 🔭 My contacts and links to profiles here: [webbrother.net](https://webbrother.net/)
 
